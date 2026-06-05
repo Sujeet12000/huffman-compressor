@@ -21,7 +21,14 @@ A full-stack Huffman Coding based file compression and decompression tool.
 This project implements the Huffman Coding algorithm to generate optimal prefix-free binary codes based on character frequency.
 
 ## Screenshots
-(Add screenshots here)
+
+### Homepage
+
+![Homepage](homepage.png)
+
+### Compression & Decompression Demo
+
+![Working Demo](working-demo.png)
 
 ## Run Locally
 
@@ -30,3 +37,4 @@ Backend:
 cd backend
 pip install -r requirement.txt
 python -m uvicorn main:app --reload
+
