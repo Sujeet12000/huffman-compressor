@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+frontend/node_modules/
+frontend/dist/
+
+compressed.bin
+decompressed.txt
+
+.env
+.vscode/
