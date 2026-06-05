@@ -20,8 +20,7 @@ const C = {
   textDim:    "#94a3b8",
 };
 
-const BASE = "http://localhost:8000";
-
+const BASE = "https://huffman-backend-6zsc.onrender.com";
 // ─── Global styles injected once ──────────────────────────────────────────────
 const GLOBAL_CSS = `
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Syne:wght@400;500;600;700;800&display=swap');
